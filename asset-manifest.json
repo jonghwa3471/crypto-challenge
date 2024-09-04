@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/crypto-challenge/static/js/main.2f4188eb.js",
+    "index.html": "/crypto-challenge/index.html",
+    "main.2f4188eb.js.map": "/crypto-challenge/static/js/main.2f4188eb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2f4188eb.js"
+  ]
+}
