@@ -56,5 +56,5 @@
   "devDependencies": {
     "@types/react-router-dom": "^5.3.3"
   },
-  "homepage": "https://jonghwa3471.github.io/crypto-challenge"
+  "homepage": "https://jonghwa3471.github.io/react-challenge-crypto-tracker"
 }
