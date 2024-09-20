@@ -2,7 +2,7 @@
 ReactJS Challenge
 
 ## 🔗 Demo
-https://jonghwa3471.github.io/crypto-challenge/
+https://jonghwa3471.github.io/react-challenge-crypto-tracker/
 
 ## 🖥 Preview
 <img src="preview-crypto-clone.png"/>
