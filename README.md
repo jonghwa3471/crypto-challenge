@@ -5,7 +5,7 @@ ReactJS Challenge
 https://jonghwa3471.github.io/crypto-challenge/
 
 ## 🖥 Preview
-<img src="preview-netflix.png"/>
+<img src="preview-crypto-clone.png"/>
 
 ## 🔥 Stack
 
